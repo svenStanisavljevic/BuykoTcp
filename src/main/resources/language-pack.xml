@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dictionary>
+    <wordExpression id="0">
+        <en>Login</en>
+        <hr>Prijava</hr>
+    </wordExpression>
+    <wordExpression id="1">
+        <en>Register</en>
+        <hr>Registracija</hr>
+    </wordExpression>
+    <wordExpression id="2">
+        <en>Welcome to Buyko!</en>
+        <hr>Dobrodošli u Buyko!</hr>
+    </wordExpression>
+    <wordExpression id="3">
+        <en>Username</en>
+        <hr>Korisničko ime</hr>
+    </wordExpression>
+    <wordExpression id="4">
+        <en>First name</en>
+        <hr>Ime</hr>
+    </wordExpression>
+    <wordExpression id="5">
+        <en>Last name</en>
+        <hr>Prezime</hr>
+    </wordExpression>
+    <wordExpression id="6">
+        <en>Email</en>
+        <hr>Email</hr>
+    </wordExpression>
+    <wordExpression id="7">
+        <en>Phone number</en>
+        <hr>Broj telefona</hr>
+    </wordExpression>
+    <wordExpression id="8">
+        <en>Back</en>
+        <hr>Nazad</hr>
+    </wordExpression>
+    <wordExpression id="9">
+        <en>Users</en>
+        <hr>Korisnici</hr>
+    </wordExpression>
+    <wordExpression id="10">
+        <en>Posts</en>
+        <hr>Objave</hr>
+    </wordExpression>
+    <wordExpression id="11">
+        <en>Other</en>
+        <hr>Ostalo</hr>
+    </wordExpression>
+    <wordExpression id="12">
+        <en>Title</en>
+        <hr>Naslov</hr>
+    </wordExpression>
+    <wordExpression id="13">
+        <en>Description</en>
+        <hr>Opis</hr>
+    </wordExpression>
+    <wordExpression id="14">
+        <en>Price</en>
+        <hr>Cijena</hr>
+    </wordExpression>
+    <wordExpression id="15">
+        <en>Category</en>
+        <hr>Kategorija</hr>
+    </wordExpression>
+    <wordExpression id="16">
+        <en>Submit</en>
+        <hr>Kreiraj</hr>
+    </wordExpression>
+    <wordExpression id="17">
+        <en>Password</en>
+        <hr>Lozinka</hr>
+    </wordExpression>
+    <wordExpression id="18">
+        <en>Log in</en>
+        <hr>Prijavi se</hr>
+    </wordExpression>
+    <wordExpression id="19">
+        <en>Locations</en>
+        <hr>Lokacije</hr>
+    </wordExpression>
+    <wordExpression id="20">
+        <en>Create</en>
+        <hr>Stvori novi</hr>
+    </wordExpression>
+    <wordExpression id="21">
+        <en>Search</en>
+        <hr>Pretraži</hr>
+    </wordExpression>
+    <wordExpression id="22">
+        <en>News and Updates</en>
+        <hr>Obavijesti i Ažuriranja</hr>
+    </wordExpression>
+    <wordExpression id="23">
+        <en>Profile picture</en>
+        <hr>Slika profila</hr>
+    </wordExpression>
+    <wordExpression id="24">
+        <en>Settings</en>
+        <hr>Postavke</hr>
+    </wordExpression>
+    <wordExpression id="25">
+        <en>Country</en>
+        <hr>Država</hr>
+    </wordExpression>
+    <wordExpression id="26">
+        <en>Region</en>
+        <hr>Regija</hr>
+    </wordExpression>
+    <wordExpression id="27">
+        <en>City</en>
+        <hr>Grad</hr>
+    </wordExpression>
+    <wordExpression id="28">
+        <en>Edit</en>
+        <hr>Uredi</hr>
+    </wordExpression>
+    <wordExpression id="29">
+        <en>Width</en>
+        <hr>Širina</hr>
+    </wordExpression>
+    <wordExpression id="30">
+        <en>Height</en>
+        <hr>Visina</hr>
+    </wordExpression>
+    <wordExpression id="31">
+        <en>Language</en>
+        <hr>Jezik</hr>
+    </wordExpression>
+    <wordExpression id="32">
+        <en>Currency</en>
+        <hr>Valuta</hr>
+    </wordExpression>
+    <wordExpression id="33">
+        <en>Logging</en>
+        <hr>Logiranje</hr>
+    </wordExpression>
+    <wordExpression id="34">
+        <en>Orders</en>
+        <hr>Narudžbe</hr>
+    </wordExpression>
+</dictionary>
